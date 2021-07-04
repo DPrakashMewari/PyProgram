@@ -4,4 +4,4 @@
 <img src= "app.png">
 
 * Screenshot 2:
-<img src ="logo.png">
+<img src ="logo1.png">

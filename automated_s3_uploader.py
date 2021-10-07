@@ -12,4 +12,4 @@ for file in os.listdir():
         upload_file_bucket = "dummy-bucket"
         upload_file_key = 'python/' + str(file)
         client.upload_file(file, upload_file_bucket, upload_file_key)
-        print("Upload Data success fully")
+print("Upload Data success fully")
